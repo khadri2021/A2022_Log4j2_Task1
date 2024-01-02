@@ -1,0 +1,177 @@
+2023-12-30 00:46:09.943 [http-nio-8080-exec-2] INFO  student.logger - {
+  "stdFirstName" : "Shake",
+  "stdLastName" : "Babjan",
+  "stdFatherName" : "Subahan",
+  "stdAge" : 28,
+  "address" : null,
+  "group" : null
+}
+2023-12-30 00:48:58.471 [http-nio-8080-exec-6] INFO  student.logger - {
+  "stdFirstName" : "Shake",
+  "stdLastName" : "Babjan",
+  "stdFatherName" : "Subahan",
+  "stdAge" : 28,
+  "address" : null,
+  "group" : null
+}
+2023-12-30 00:48:58.489 [http-nio-8080-exec-3] INFO  student.logger - {
+  "stdFirstName" : "Shake",
+  "stdLastName" : "Babjan",
+  "stdFatherName" : "Subahan",
+  "stdAge" : 28,
+  "address" : null,
+  "group" : null
+}
+2023-12-30 00:51:10.519 [http-nio-8080-exec-3] INFO  student.logger - {
+  "stdFirstName" : "Shake",
+  "stdLastName" : "Babjan",
+  "stdFatherName" : "Subahan",
+  "stdAge" : 28,
+  "address" : null,
+  "group" : null
+}
+2023-12-30 00:53:23.927 [http-nio-8080-exec-2] INFO  student.logger - {
+  "stdFirstName" : "Shake",
+  "stdLastName" : "Babjan",
+  "stdFatherName" : "Subahan",
+  "stdAge" : 28,
+  "address" : null,
+  "group" : null
+}
+2023-12-30 00:57:33.388 [http-nio-8080-exec-4] INFO  student.logger - {
+  "stdFirstName" : "Shake",
+  "stdLastName" : "Babjan",
+  "stdFatherName" : "Subahan",
+  "stdAge" : 28,
+  "address" : {
+    "presentAddress" : {
+      "doorNo" : "1-10",
+      "streetName" : "Kotras",
+      "landmark" : "School",
+      "phoneNo" : "+919703482842"
+    },
+    "permanentAddress" : {
+      "doorNo" : "1-10",
+      "streetName" : "Kotras",
+      "landmark" : "School",
+      "phoneNo" : "+919703482842"
+    }
+  },
+  "group" : "BSC_COMPUTERS"
+}
+2023-12-30 00:57:33.388 [http-nio-8080-exec-1] INFO  student.logger - {
+  "stdFirstName" : "Shake",
+  "stdLastName" : "Babjan",
+  "stdFatherName" : "Subahan",
+  "stdAge" : 28,
+  "address" : {
+    "presentAddress" : null,
+    "permanentAddress" : null
+  },
+  "group" : "BSC_COMPUTERS"
+}
+2023-12-30 00:58:55.761 [http-nio-8080-exec-1] INFO  student.logger - {
+  "stdFirstName" : "Shake",
+  "stdLastName" : "Babjan",
+  "stdFatherName" : "Subahan",
+  "stdAge" : 28,
+  "address" : {
+    "presentAddress" : {
+      "doorNo" : "1-10",
+      "streetName" : "Kotras",
+      "landmark" : "School",
+      "phoneNo" : "+919703482842"
+    },
+    "permanentAddress" : {
+      "doorNo" : "1-10",
+      "streetName" : "Kotras",
+      "landmark" : "School",
+      "phoneNo" : "+919703482842"
+    }
+  },
+  "group" : "BSC_COMPUTERS"
+}
+2023-12-30 01:00:36.672 [http-nio-8080-exec-2] INFO  student.logger - {
+  "stdFirstName" : "Shake",
+  "stdLastName" : "Babjan",
+  "stdFatherName" : "Subahan",
+  "stdAge" : 28,
+  "address" : {
+    "presentAddress" : {
+      "doorNo" : "1-10",
+      "streetName" : "Kotras",
+      "landmark" : "School",
+      "phoneNo" : "+919703482842"
+    },
+    "permanentAddress" : {
+      "doorNo" : "2-10",
+      "streetName" : "Main",
+      "landmark" : "Bypass",
+      "phoneNo" : "+919703482842"
+    }
+  },
+  "group" : "BSC_COMPUTERS"
+}
+2023-12-30 01:00:36.677 [http-nio-8080-exec-5] INFO  student.logger - {
+  "stdFirstName" : "Shake",
+  "stdLastName" : "Babjan",
+  "stdFatherName" : "Subahan",
+  "stdAge" : 28,
+  "address" : {
+    "presentAddress" : {
+      "doorNo" : "1-10",
+      "streetName" : "Kotras",
+      "landmark" : "School",
+      "phoneNo" : "+919703482842"
+    },
+    "permanentAddress" : {
+      "doorNo" : "2-10",
+      "streetName" : "Main",
+      "landmark" : "Bypass",
+      "phoneNo" : "+919703482842"
+    }
+  },
+  "group" : "BSC_COMPUTERS"
+}
+2023-12-30 01:01:13.736 [http-nio-8080-exec-2] INFO  student.logger - {
+  "stdFirstName" : "Shake",
+  "stdLastName" : "Babjan",
+  "stdFatherName" : "Subahan",
+  "stdAge" : 28,
+  "address" : {
+    "presentAddress" : {
+      "doorNo" : "1-10",
+      "streetName" : "Kotras",
+      "landmark" : "School",
+      "phoneNo" : "+919703482842"
+    },
+    "permanentAddress" : {
+      "doorNo" : "2-10",
+      "streetName" : "Main",
+      "landmark" : "Bypass",
+      "phoneNo" : "+919703482842"
+    }
+  },
+  "group" : "BSC_COMPUTERS"
+}
+2023-12-31 23:45:19.986 [http-nio-8080-exec-1] INFO  student.logger - {
+  "stdFirstName" : "Shake",
+  "stdLastName" : "Babjan",
+  "stdFatherName" : "Subahan",
+  "stdAge" : 28,
+  "address" : {
+    "presentAddress" : {
+      "doorNo" : "1-10",
+      "streetName" : "Kotras",
+      "landmark" : "School",
+      "phoneNo" : "+919703482842"
+    },
+    "permanentAddress" : {
+      "doorNo" : "2-10",
+      "streetName" : "Main",
+      "landmark" : "Bypass",
+      "phoneNo" : "+919703482842"
+    }
+  },
+  "group" : "BSC_COMPUTERS"
+}

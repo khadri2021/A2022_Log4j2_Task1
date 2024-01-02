@@ -1,0 +1,41 @@
+{
+	"info": {
+		"_postman_id": "07e10d52-4a50-43b2-bb64-7d86fb1aee10",
+		"name": "A2022_Log4j2_Task1",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "29391279"
+	},
+	"item": [
+		{
+			"name": "get hall ticket",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"stdFirstName\": \"Shake\",\r\n    \"stdLastName\": \"Babjan\",\r\n    \"stdFatherName\": \"Subahan\",\r\n    \"stdAge\": 28,\r\n    \"address\": {\r\n        \"presentAddress\": {\r\n            \"doorNo\": \"1-10\",\r\n            \"streetName\": \"Kotras\",\r\n            \"landmark\": \"School\",\r\n            \"phoneNo\": \"+919703482842\"\r\n        },\r\n        \"permanentAddress\": {\r\n            \"doorNo\": \"2-10\",\r\n            \"streetName\": \"Main\",\r\n            \"landmark\": \"Bypass\",\r\n            \"phoneNo\": \"+919703482842\"\r\n        }\r\n    },\r\n    \"group\": \"BSC_COMPUTERS\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8080/student/v1/get/hallticket",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"student",
+						"v1",
+						"get",
+						"hallticket"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
